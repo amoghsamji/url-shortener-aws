@@ -36,8 +36,9 @@ API Gateway
 AWS Lambda
   ↓
 DynamoDB
+```
 
---- 
+---
 
 ## ✨ Features
 
@@ -79,4 +80,4 @@ Built this project to gain practical experience with **AWS serverless architectu
 
 **Amogh Samji**
 
-GitHub: https://github.com/amoghsamji
+GitHub: [https://github.com/amoghsamji](https://github.com/amoghsamji)
