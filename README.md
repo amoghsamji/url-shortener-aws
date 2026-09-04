@@ -37,33 +37,46 @@ AWS Lambda
   ↓
 DynamoDB
 
+--- 
+
 ## ✨ Features
-Generate short URLs
-HTTP 302 redirects
-7-day automatic URL expiration
-Serverless architecture
-React frontend
-REST API
-Persistent DynamoDB storage
-🛠️ Tech Stack
 
-Frontend: React, Vite, JavaScript, CSS
+- Generate short URLs
+- HTTP 302 redirects
+- 7-day automatic URL expiration
+- Serverless architecture
+- React frontend
+- REST API
+- Persistent DynamoDB storage
 
-Backend: Python, Boto3
+---
 
-Cloud: AWS Lambda, API Gateway, DynamoDB, S3, IAM, CloudWatch
+## 🛠️ Tech Stack
+
+**Frontend:** React, Vite, JavaScript, CSS
+
+**Backend:** Python, Boto3
+
+**Cloud:** AWS Lambda, API Gateway, DynamoDB, S3, IAM, CloudWatch
+
+---
 
 ## 📚 What I Learned
 
-Built this project to gain practical experience with AWS serverless architecture, including:
+Built this project to gain practical experience with **AWS serverless architecture**, including:
 
-AWS Lambda
-API Gateway
-DynamoDB
-Amazon S3
-IAM
-CORS
-DynamoDB TTL
+- AWS Lambda
+- API Gateway
+- DynamoDB
+- Amazon S3
+- IAM
+- CORS
+- DynamoDB TTL
+
+---
+
+## 👨‍💻 Author
+
+**Amogh Samji**
 
 GitHub: https://github.com/amoghsamji
-
